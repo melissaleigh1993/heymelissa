@@ -136,9 +136,5 @@ nav a:hover {
 .button:hover {
   color: #d18f4a;
   border-color: #d18f4a;
-  
-  [class*=col] {
-  padding: 0;
-}
 
 /* background images */
