@@ -1,8 +1,6 @@
 *{
   margin:0;
   padding: 0;
-  padding-right: 10px;
-  padding-right: 5px;
 }
 
 [class*=col] {
@@ -88,6 +86,8 @@ h4 {
   margin-left: 50px;
   font-size: 1.75rem;
   line-height: 35px;
+    padding-right: 10px;
+  padding-right: 5px;
 }
 
 .tab { margin-left: 75px; }
