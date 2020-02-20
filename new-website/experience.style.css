@@ -4,8 +4,7 @@
 }
 
 [class*=col] {
-  padding-right: 5px;
-  padding-left: 5px;
+  padding: 0px;
 }
 
 
